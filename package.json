@@ -10,7 +10,7 @@
   "scripts": {
     "test": "gulp test",
     "start": "gulp serve",
-    "build": "reveal.js@4.6.1 build --output public"
+    "build": "gulp build"
   },
   "author": {
     "name": "Hakim El Hattab",
@@ -102,7 +102,6 @@
     }
   },
   "dependencies": {
-    "resolve-url": "^0.2.1",
     "reveal.js": "^4.6.1"
   }
 }
