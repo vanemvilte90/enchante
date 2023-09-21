@@ -10,7 +10,7 @@
   "scripts": {
     "test": "gulp test",
     "start": "gulp serve",
-    "build": "gulp build"
+    "build": "revealjs build --output public"
   },
   "author": {
     "name": "Hakim El Hattab",
